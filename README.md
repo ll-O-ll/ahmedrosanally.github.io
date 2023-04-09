@@ -24,6 +24,8 @@
 
 ## 🛠 Installation & Set Up
 
+Make sure you have a Linux environment setup before the development of this website
+
 1. Install the Gatsby CLI
 
    ```sh
@@ -36,7 +38,13 @@
    nvm install
    ```
 
-3. Install dependencies
+3. Install yarn
+
+  ```sh
+  npm install --global yarn
+  ```
+
+4. Install dependencies
 
    ```sh
    yarn
