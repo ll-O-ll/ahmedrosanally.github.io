@@ -21,7 +21,6 @@
 
 ![demo](https://raw.githubusercontent.com/ll-O-ll/ahmedrosanally.github.io/main/src/images/demo.png)
 
-
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
@@ -41,6 +40,8 @@
    ```sh
    yarn
    ```
+
+   (to install yarn: `npm install --global yarn`)
 
 4. Start the development server
 
@@ -77,6 +78,6 @@
 
 ## Forking This Repo
 
-This repo is forked from [Britanny Chiang's](https://github.com/bchiang7) [v4 website](https://github.com/bchiang7/v4).  As long you give credit by linking back back to her original website [https://brittanychiang.com/](https://brittanychiang.com/)
+This repo is forked from [Britanny Chiang's](https://github.com/bchiang7) [v4 website](https://github.com/bchiang7/v4). As long as you give credit by linking back back to her original website [https://brittanychiang.com/](https://brittanychiang.com/), you could use this as a website template.
 
 Please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/) if have any questions about website implementation
