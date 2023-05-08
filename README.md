@@ -1,8 +1,8 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/ll-O-ll/ahmedrosanally.github.io/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  ahmedrosanally.com v1
 </h1>
 <p align="center">
   The first iteration of <a href="https://ahmedrosanally.com" target="_blank">ahmedrosanally.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
