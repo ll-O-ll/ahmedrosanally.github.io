@@ -14,6 +14,14 @@ module.exports = {
       name: 'Twitter',
       url: 'https://twitter.com/nissaltweets',
     },
+    // {
+    //   name: 'Linkedin',
+    //   url: 'https://www.linkedin.com/in/<username>',
+    // },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/<username>',
+    // },
   ],
 
   navLinks: [
