@@ -65,11 +65,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      Ahmed Rosanally is a generalizing specialist software engineer. He currently builds software to send objects to space at {' '}
+      Ahmed Rosanally is a generalizing specialist software engineer. He currently builds software to send satellites to space at {' '}
         <a href="https://mda.space/en/" target="_blank" rel="noreferrer">
-          MDA Space
-        </a>
-        .
+          MDA Space.
+        </a> {' '} Space internet soon come....
+        
       </p>
     </>
   );

@@ -135,18 +135,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Ahmed and I enjoy creating things that in the real world. My
+              Hello! My name is Ahmed and I enjoy creating things in the real world. My
               interest in engineering started back in 2006 when I decided to cobble a pterodactyl
-              using cardboard, some glue and tools — turns out doing this at an early age taught be
+              using cardboard, some glue and tools — turns out doing this at an early age taught me
               a lot about engineering.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              Fast-forward to today, and I’ve had the privilege of 
+              studying the distinguished {' '} <a href="https://engsci.utoronto.ca/program/what-is-engsci/"> Engineering Science (Nж) program</a>, {' '} at U of T, working at{' '}
               <a href="https://global.abb/group/en">a tech company in energy and automation</a>,{' '}
               <a href="https://www.utat.ca/">a student-led rocketry team</a>. My main focus these
               days is engineering the space between what's possible and imagination at {' '}
-              <a href="https://mda.space/en/"> MDA Space</a> for a variety of clients.
+              <a href="https://mda.space/en/"> MDA Space</a> for a variety of stakeholders.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
