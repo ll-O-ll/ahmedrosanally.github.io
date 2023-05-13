@@ -5,6 +5,7 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled, { css } from 'styled-components';
 import { navLinks } from '@config';
 import { loaderDelay } from '@utils';
+import variables from '../styles/variables';
 import { useScrollDirection, usePrefersReducedMotion } from '@hooks';
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
@@ -17,7 +18,7 @@ const StyledHeader = styled.header`
   padding: 0px 50px;
   width: 100%;
   height: var(--nav-height);
-  background-color: rgba(10, 25, 47, 0.85);
+  background-color: var(--black);
   filter: none !important;
   pointer-events: auto !important;
   user-select: auto !important;
@@ -66,14 +67,14 @@ const StyledNav = styled.nav`
     ${({ theme }) => theme.mixins.flexCenter};
 
     a {
-      color: var(--green);
+      color: var(--blue);
       width: 42px;
       height: 42px;
 
       &:hover,
       &:focus {
         svg {
-          fill: var(--green-tint);
+          fill: var(--black-tint);
         }
       }
 
@@ -112,7 +113,7 @@ const StyledLinks = styled.div`
         &:before {
           content: '0' counter(item) '.';
           margin-right: 5px;
-          color: var(--green);
+          color: var(--white);
           font-size: var(--fz-xxs);
           text-align: right;
         }

@@ -10,6 +10,7 @@ const prismColors = {
   orange: `#ffae57`,
   red: `#ef6b73`,
   grey: `#a2aabc`,
+  black: `#000000`,
   comment: `#8695b799`,
 };
 
@@ -84,7 +85,7 @@ const PrismStyles = css`
   .gatsby-highlight-code-line {
     display: block;
     background-color: ${prismColors.lineHighlight};
-    border-left: 2px solid var(--green);
+    border-left: 2px solid var(--black);
     padding-left: calc(1em + 2px);
     padding-right: 1em;
     margin-right: -1.35em;
@@ -207,7 +208,7 @@ const PrismStyles = css`
   .token.regex,
   .token.variable,
   .token.inserted {
-    color: ${prismColors.green};
+    color: ${prismColors.black};
   }
   .token.important,
   .token.bold {

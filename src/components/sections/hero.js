@@ -19,7 +19,7 @@ const StyledHeroSection = styled.section`
 
   h1 {
     margin: 0 0 30px 4px;
-    color: var(--green);
+    color: var(--black);
     font-family: var(--font-mono);
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
     font-weight: 400;
@@ -61,11 +61,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Ahmed Rosanally.</h2>;
-  const three = <h3 className="big-heading">I build things in the real world</h3>;
+  const three = <h3 className="big-heading">I make miracles happen</h3>;
   const four = (
     <>
       <p>
-      Ahmed Rosanally is a generalizing specialist software engineer. He currently builds software to send satellites to space at {' '}
+      I'm a generalizing specialist software engineer. I currently build software to send satellites to space at {' '}
         <a href="https://mda.space/en/" target="_blank" rel="noreferrer">
           MDA Space.
         </a> {' '} Space internet soon come....

@@ -1,12 +1,12 @@
 ---
-date: '2019-09-03'
+date: '2023-01-16'
 title: 'Software Engineer'
-company: 'ABB'
-location: 'Toronto, Canada'
-range: 'September 2019 - May 2020'
-url: 'https://global.abb/group/en'
+company: 'MDA'
+location: 'Montreal, Canada'
+range: 'Jan 2023 - Present '
+url: 'https://mda.space/en/'
 ---
 
-- Developped VBA scripts to accelerate Excel data processing for transformer analysis 
-- Packaged and shipped transformer parts to power grids customers
-- Designed mechanical parts using AutoCAD 
+- Developed test software for the satellite constellation to provide space internet to rural areas on Earth
+- Contributed to the design and implemention of a satelitte payload emulator 
+- Employed scrum and agile methodologies as a generalizing specialist software engineer to skill up and skill quick
