@@ -1,9 +1,9 @@
 import { css } from 'styled-components';
 
 const button = css`
-  color: var(--black);
+  color: var(--white);
   background-color: transparent;
-  border: 1px solid var(--black);
+  border: 1px solid var(--white);
   border-radius: var(--border-radius);
   font-size: var(--fz-xs);
   font-family: var(--font-mono);

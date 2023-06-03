@@ -48,6 +48,7 @@ module.exports = {
     navy: '#0a192f',
     darkNavy: '#020c1b',
     white: '#f1f6fb',
+    coolGrey:'#c8d3de',
     black: '#000000',
     blue: '#3fa8f3'
   },
