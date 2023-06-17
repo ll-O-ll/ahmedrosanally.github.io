@@ -11,11 +11,11 @@ const variables = css`
     --slate: #8892b0;
     --light-slate: #a8b2d1;
     --lightest-slate: #ccd6f6;
-    --white: #F1F6FB;
+    --white: #bdcddb;
     --black: #000000;
     --black-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
-    --blue: #3FA8F3;
+    --blue: #316285;
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;
