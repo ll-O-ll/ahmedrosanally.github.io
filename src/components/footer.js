@@ -46,6 +46,7 @@ const StyledCredit = styled.div`
   font-size: var(--fz-xxs);
   line-height: 1;
 
+
   a {
     padding: 10px;
   }
@@ -106,7 +107,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/ll-O-ll/ahmedrosanally.github.io">
-          <div>Built by Ahmed Rosanally</div>
+          <div>Modded by Ahmed Rosanally</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
@@ -121,6 +122,22 @@ const Footer = () => {
             </div>
           )}
         </a>
+        {/* <a href="https://github.com/bchiang7/v4">
+          <div>Built by Britanny Chiang</div>
+
+          {githubInfo.stars && githubInfo.forks && (
+            <div className="github-stats">
+              <span>
+                <Icon name="Star" />
+                <span>{githubInfo.stars.toLocaleString()}</span>
+              </span>
+              <span>
+                <Icon name="Fork" />
+                <span>{githubInfo.forks.toLocaleString()}</span>
+              </span>
+            </div>
+          )}
+        </a> */}
       </StyledCredit>
     </StyledFooter>
   );

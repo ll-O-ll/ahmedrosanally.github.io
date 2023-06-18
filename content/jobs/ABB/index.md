@@ -1,6 +1,6 @@
 ---
 date: '2019-09-03'
-title: 'Software Engineer'
+title: 'Transformer Specialist'
 company: 'ABB'
 location: 'Toronto, Canada'
 range: 'September 2019 - May 2020'
