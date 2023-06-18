@@ -158,7 +158,7 @@ const StyledProject = styled.li`
     padding: 25px;
     border-radius: var(--border-radius);
     background-color: var(--light-navy);
-    color: var(--light-slate);
+    color: var(--white);
     font-size: var(--fz-lg);
 
     @media (max-width: 768px) {
@@ -192,7 +192,7 @@ const StyledProject = styled.li`
 
     li {
       margin: 0 20px 5px 0;
-      color: var(--light-slate);
+      color: var(----lightest-navy);
       font-family: var(--font-mono);
       font-size: var(--fz-xs);
       white-space: nowrap;

@@ -8,7 +8,6 @@ tech:
   - Discord API
   - Node JS
   - FFmpeg
-  - iTerm2
   - Google Cloud
 ---
 

@@ -143,10 +143,10 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of 
-              studying the distinguished {' '} <a href="https://engsci.utoronto.ca/program/what-is-engsci/"> Engineering Science (Nж) program</a>, {' '} at U of T, working at{' '}
-              <a href="https://global.abb/group/en">a tech company in energy and automation</a>,{' '}
+              studying the distinguished {' '} <a href="https://engsci.utoronto.ca/program/what-is-engsci/"> Engineering Science (NΨ) program</a>, {' '} at U of T, working at{' '}
+              <a href="https://global.abb/group/en">a tech company in energy and automation</a>,{' '} and contributing to {' '}
               <a href="https://www.utat.ca/">a student-led rocketry team</a>. My main focus these
-              days is engineering the space between what's possible and imagination at {' '}
+              days is engineering the space between what's proven and possible at {' '}
               <a href="https://mda.space/en/"> MDA Space</a> for a variety of stakeholders.
             </p>
 
