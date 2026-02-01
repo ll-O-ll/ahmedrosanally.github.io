@@ -35,8 +35,8 @@ const StyledHeader = styled.header`
   @media (prefers-reduced-motion: no-preference) {
     ${props =>
     props.scrollDirection === 'up' &&
-      !props.scrolledToTop &&
-      css`
+    !props.scrolledToTop &&
+    css`
         height: var(--nav-scroll-height);
         transform: translateY(0px);
         background-color: rgba(10, 25, 47, 0.85);
@@ -45,8 +45,8 @@ const StyledHeader = styled.header`
 
     ${props =>
     props.scrollDirection === 'down' &&
-      !props.scrolledToTop &&
-      css`
+    !props.scrolledToTop &&
+    css`
         height: var(--nav-scroll-height);
         transform: translateY(calc(var(--nav-scroll-height) * -1));
         box-shadow: 0 10px 30px -10px var(--navy-shadow);
@@ -174,7 +174,7 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a className="resume-button" href="/resume/Ahmed%20-%20Resume%202026.pdf" target="_blank" rel="noopener noreferrer">
       Resume
     </a>
   );

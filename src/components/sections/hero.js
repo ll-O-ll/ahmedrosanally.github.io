@@ -61,20 +61,16 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Ahmed Rosanally.</h2>;
-  const three = <h3 className="big-heading">I make miracles happen</h3>;
+
   const four = (
     <>
       <p>
-      I'm a generalizing specialist software engineer. I currently build software to send satellites to space at {' '}
-        <a href="https://mda.space/en/" target="_blank" rel="noreferrer">
-          MDA Space.
-        </a> {' '} Space internet soon come....
-        
+        Software Engineer with experience designing, integrating, and deploying complex technical systems across aerospace and research environments. Strong at translating abstract requirements into reliable, testable solutions used by external partners. Background in machine learning, systems integration, and developer tooling. Comfortable working cross-functionally with engineers, researchers, and stakeholders.
       </p>
     </>
   );
 
-  const items = [one, two, three, four];
+  const items = [one, two, four];
 
   return (
     <StyledHeroSection>
